@@ -24,7 +24,8 @@ class Telegram:
 
 
 def tel_main(heroku="https://stiffbot.herokuapp.com/"):
-    token_telegram = '364334979:AAHSmP5uXT-o5TyW484P4XrviQMLGb_pLlk'
-    aux = Telegram(token_telegram, heroku, 378309523)
+    token_telegram = 'telegram_token_here'
+    chat_id_here=1
+    aux = Telegram(token_telegram, heroku, chat_id_here)
     return aux
 
