@@ -1,0 +1,1 @@
+{"update_id": 950355868, "message": {"chat": {"id": 378309523, "last_name": "Fros", "type": "private", "first_name": "Luis"}, "entities": [{"offset": 0, "type": "bot_command", "length": 6}], "message_id": 357, "from": {"id": 378309523, "language_code": "es", "last_name": "Fros", "first_name": "Luis"}, "date": 1498512586, "text": "/label 10 tar"}}

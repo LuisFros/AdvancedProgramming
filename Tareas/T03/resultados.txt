@@ -1,0 +1,53 @@
+---------------Consulta1---------------
+['asignar', 'x', ['extraer_columna', 'registros', 'tiempo_sano']]
+x-->Asignado exitosamente
+
+---------------Consulta3---------------
+['asignar', 'y', ['extraer_columna', 'registros', 'muertos_avistados']]
+y-->Asignado exitosamente
+
+---------------Consulta5---------------
+['asignar', 'y', ['extraer_columna', 'registros', 'muertos_avistados']]
+y-->Asignado exitosamente
+
+---------------Consulta7---------------
+['comparar', ['PROM', 'x'], '>', ['DESV', 'y']]
+comparar-->False
+
+---------------Consulta9---------------
+['asignar', 'filtrado', ['filtrar', 'x', '>', 100]]
+filtrado-->Asignado exitosamente
+
+---------------Consulta11---------------
+['asignar', 'funcion_normal', ['evaluar', ['crear_funcion', 'normal', 0, 0.5], -3, 5, 0.1]]
+funcion_normal-->Asignado exitosamente
+
+---------------Consulta0---------------
+['asignar', 'x', ['extraer_columna', 'registros', 'tiempo_sano']]
+x-->Asignado exitosamente
+
+0
+---------------Consulta0---------------
+['asignar', 'x', ['extraer_columna', 'registros', 'tiempo_sano']]
+x-->Asignado exitosamente
+
+---------------Consulta0---------------
+['asignar', 'x', ['extraer_columna', 'registros', 'tiempo_sano']]
+x-->Asignado exitosamente
+
+760254
+---------------Consulta0---------------
+['asignar', 'x', ['extraer_columna', 'registros', 'tiempo_sano']]
+x-->Asignado exitosamente
+
+[250799]
+---------------Consulta0---------------
+['asignar', 'x', ['extraer_columna', 'registros', 'tiempo_sano']]
+x-->Asignado exitosamente
+
+[0.736527]
+---------------Consulta0---------------
+['asignar', 'y', ['extraer_columna', 'registros', 'muertos_avistados']]
+y-->Asignado exitosamente
+
+[0.779676s]

@@ -1,0 +1,105 @@
+{
+    "Rouge": {
+        "life": 550,
+        "cooldown": 25,
+        "initial_pos": {
+            "blue": [
+                300,
+                215
+            ],
+            "purple": [
+                929,
+                470
+            ]
+        },
+        "attack_range": 10,
+        "attack_speed": 20,
+        "attack_damage": 7,
+        "movement_speed": 30
+    },
+    "Nexo": {
+        "life": 1200,
+        "initial_pos": [
+            0,
+            0
+        ]
+    },
+    "Destructor": {
+        "movement_speed": 10,
+        "cooldown": 40,
+        "initial_pos": {
+            "blue": [
+                300,
+                215
+            ],
+            "purple": [
+                929,
+                470
+            ]
+        },
+        "attack_range": 5,
+        "attack_speed": 10,
+        "attack_damage": 20,
+        "life": 666,
+        "ability_power": 70
+    },
+    "Torre": {
+        "life": 250,
+        "initial_pos": [
+            0,
+            0
+        ],
+        "attack_range": 40,
+        "attack_speed": 1,
+        "attack_damage": 30
+    },
+    "Subditos_fuertes": {
+        "life": 50,
+        "initial_pos": [
+            0,
+            0
+        ],
+        "attack_range": 20,
+        "attack_speed": 1,
+        "attack_damage": 4,
+        "movement_speed": 8
+    },
+    "Subditos_debiles": {
+        "life": 45,
+        "initial_pos": [
+            255,
+            225
+        ],
+        "attack_range": 5,
+        "attack_speed": 1,
+        "attack_damage": 2,
+        "movement_speed": 8
+    },
+    "Hechicera": {
+        "life": 500,
+        "cooldown": 30,
+        "initial_pos": {
+            "blue": [
+                300,
+                215
+            ],
+            "purple": [
+                929,
+                470
+            ]
+        },
+        "attack_range": 40,
+        "attack_speed": 10,
+        "attack_damage": 5,
+        "movement_speed": 30,
+        "ability_power": 0
+    },
+    "Inhibidor": {
+        "life": 600,
+        "cooldown": 30,
+        "initial_pos": [
+            0,
+            0
+        ]
+    }
+}
